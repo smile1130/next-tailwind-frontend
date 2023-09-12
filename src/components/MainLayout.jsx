@@ -3,9 +3,11 @@ import { Sidebar } from '@/components/Sidebar'
 export function MainLayout({ children }) {
     return (
         <>
-            <div className="flex flex-rowl dark:bg-zinc-900">
+            <div className="flex flex-row max-md:flex-col">
                 <Sidebar />
-                {children}
+                <div className='bg-zinc-100 dark:bg-zinc-800 h-screen w-full pt-8 px-4'>
+                    {children}
+                </div>
             </div>
         </>
     )

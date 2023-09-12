@@ -5,3 +5,7 @@
 #__next {
   min-height: 100%;
 }
+
+.border-1 {
+  border-width: 1px;
+}
