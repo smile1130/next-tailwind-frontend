@@ -9,3 +9,8 @@
 .border-1 {
   border-width: 1px;
 }
+
+.active {
+  @apply bg-slate-300;
+  @apply dark:bg-slate-600;
+}

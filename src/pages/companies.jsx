@@ -13,7 +13,7 @@ export default function Companies() {
             </Head>
             <MainLayout>
                 <div className='p-6 w-full h-fit rounded-lg bg-white dark:bg-zinc-900 dark:text-slate-100'>
-                    <div>Companies</div>
+                    <div>Companies Page is coming</div>
                 </div>
             </MainLayout>
         </>

@@ -13,7 +13,7 @@ export default function Models() {
             </Head>
             <MainLayout>
                 <div className='p-6 w-full h-fit rounded-lg bg-white dark:bg-zinc-900 dark:text-slate-100'>
-                    <div>Train AI</div>
+                    <div>Train AI Page is coming soon</div>
                 </div>
             </MainLayout>
         </>

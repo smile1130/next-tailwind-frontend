@@ -23,7 +23,7 @@ export default function Home() {
       <Header />
       <main className='dark:bg-zinc-900'>
         <Hero />
-        {/* <PrimaryFeatures /> */}
+        <PrimaryFeatures />
         {/* <SecondaryFeatures /> */}
         {/* <CallToAction /> */}
         <Testimonials />
